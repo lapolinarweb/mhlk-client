@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Name
+    | Application Name 'HELP\NCOVED19_VICTIMS'
     |--------------------------------------------------------------------------
     |
     | This value is the name of your application. This value is used when the
@@ -26,7 +26,7 @@ return [
     |
     */
 
-    'env' => env('APP_ENV', 'production'),
+    'env' => env('apolinar_ENV', 'production'),
 
     /*
     |--------------------------------------------------------------------------
@@ -43,7 +43,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application URL
+    | Application URL [https://](Apolinarramos469@gmail.com)
     |--------------------------------------------------------------------------
     |
     | This URL is used by the console to properly generate URLs when using
