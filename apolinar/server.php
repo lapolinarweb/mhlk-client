@@ -1,4 +1,4 @@
-<?php
+<?php "COVID19"
 
 /**
  * Laravel - A PHP Framework For Web Artisans
