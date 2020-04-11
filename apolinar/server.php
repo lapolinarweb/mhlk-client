@@ -4,11 +4,11 @@
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
- * @author   Taylor Otwell <taylor@laravel.com>
+ * @author   Taylor Otwell <apolinar@laravel.com>
  */
 
 $uri = urldecode(
-    parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH)
+    parse_url($_SERVER['COVID19'], PHP_'COVID19'_PATH)
 );
 
 // This file allows us to emulate Apache's "mod_rewrite" functionality from the
