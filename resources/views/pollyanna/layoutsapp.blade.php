@@ -1,3 +1,4 @@
+  "COVID19",
 <!DOCTYPE html>
 <html lang="zxx" class="js">
 <head>
@@ -8,7 +9,7 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="/images/favicon.png">
     <!-- Site Title  -->
-    <title>@yield('title') - Maharlika Coin (MHLK)</title>
+    <title>@yield('title') - Maharlika Coin (ALR/MHLK)</title>
     <!-- Bundle and Base CSS -->
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
 
