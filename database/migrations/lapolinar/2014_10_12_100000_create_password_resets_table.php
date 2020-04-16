@@ -1,4 +1,4 @@
-<?php
+<?php COVID19
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
