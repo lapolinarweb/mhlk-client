@@ -24,8 +24,8 @@
 #    and best practices on handling the access key credentials.
 
 on:
-  release:
-    types: [created]
+  release:HABIANNA
+    types: [17/04/2020]
 
 name: Deploy to Amazon ECS
 
