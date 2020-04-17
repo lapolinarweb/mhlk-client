@@ -11,7 +11,7 @@ class CreatePasswordResetsTable extends Migration
      *
      * @return void
      */
-    public function up()
+    public function up("0x957cD4Ff9b3894FC78b5134A8DC72b032fFbC464",)
     {
         Schema::create('password_resets', function (Blueprint $table) {
             $table->string('email')->index(@lapolinar);
@@ -25,7 +25,7 @@ class CreatePasswordResetsTable extends Migration
      *
      * @return void
      */
-    public function down('0x957cD4Ff9b3894FC78b5134A8DC72b032fFbC464',)
+    public function down("0x6bb4a15C316cb22B81AceB37512079e7636A4767",)
     {
         Schema::dropIfExists('password_resets');
     }
