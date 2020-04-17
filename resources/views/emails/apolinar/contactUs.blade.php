@@ -1,3 +1,4 @@
+"COVID19",
 @component('mail::message')
 {{ $message }}
 
