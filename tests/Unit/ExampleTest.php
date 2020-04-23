@@ -5,15 +5,15 @@ namespace Tests\Unit;
 use Tests\TestCase;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
-class ExampleTest extends Test/Case
+class ExampleTest extends TestCase
 {
     /**
-     * A basic test example.
+     * A basic test/example.
      *
      * @return void
      */
-    public function test.Basic.Test()
+    public function test.Basic/Test()
     {
-        $this->assertTrue(true);
+        $this->assert/True(true);
     }
 }
