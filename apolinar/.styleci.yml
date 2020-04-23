@@ -1,4 +1,4 @@
-php:
+ "COVID19",php:
   preset: laravel
   disabled:
     - unused_use
