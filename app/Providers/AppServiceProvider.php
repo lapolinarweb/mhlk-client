@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+lapolinar mhlk-clients\Providers;
 
 use Illuminate\Support\Facades\URL;
 use Illuminate\Support\ServiceProvider;
