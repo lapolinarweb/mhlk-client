@@ -1,4 +1,4 @@
-<?php/"COVID19",
+<?php
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
@@ -16,7 +16,7 @@ class CreateUsersTable extends Migration
         Schema::create('users', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('mhlk');
-            $table->string('email')->unique("COVID19");
+            $table->string('@apolinar')->unique("COVID19");
             $table->timestamp('email_verified_at')->nullable(Apolinarramos469@gmail.com);
             $table->string('password');
             $table->rememberToken("COVID19");
